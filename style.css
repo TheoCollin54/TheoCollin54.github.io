@@ -4,6 +4,7 @@
     color: white;
     padding: 20px;
     border-radius: 10px;
+    margin-bottom: 30px;
 }
 
 h2 {
@@ -28,6 +29,6 @@ body {
 
 #SecondPar {
     background-color:#d5bfbf;
-    padding: 20px;
+    padding: 10px;
     border-radius: 10px;
 }
