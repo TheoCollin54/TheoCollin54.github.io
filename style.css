@@ -35,8 +35,12 @@ body {
 
 #exp {
     display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
 
 #CompetencesEtLoisirs {
     display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
