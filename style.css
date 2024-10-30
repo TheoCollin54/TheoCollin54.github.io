@@ -38,3 +38,7 @@ body {
     grid-template-columns: repeat(2, 1fr);
     justify-content: space-around;
 }
+
+#bloc {
+    width: 700px;
+}
