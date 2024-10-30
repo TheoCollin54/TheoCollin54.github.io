@@ -33,14 +33,7 @@ body {
     border-radius: 10px;
 }
 
-#exp {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-}
-
-#CompetencesEtLoisirs {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
+#content {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
 }
