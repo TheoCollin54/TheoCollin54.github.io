@@ -15,11 +15,13 @@ h2 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: steelblue;
     margin-left: 50px;
+    font-size: 1em;
 }
 
 #Par {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin-left: 70px;
+    font-size: 0.8em;
 }
 
 body {
